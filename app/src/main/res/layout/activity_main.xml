@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/splash_background"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="@dimen/android_layout_margin"
+        android:layout_height="@dimen/android_layout_margin"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/android_layout_margin"
+        android:contentDescription="@string/content_description"
+        android:src="@drawable/quiz" />
+
+    <TextView
+        android:layout_width="@dimen/text_height"
+        android:layout_height="@dimen/text_height"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/android_layout_margin"
+        android:text="@string/app_short_name"
+        android:textColor="@color/background_text__color"
+        android:textSize="@dimen/text_size" />
+
+</RelativeLayout>

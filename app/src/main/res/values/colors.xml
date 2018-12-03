@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!-- Background color for app -->
+    <color name="splash_background">#000000</color>
+
+    <!-- Background color for text FQ! for the splash screen -->
+    <color name="background_text__color">#e9855e</color>
+
+    <!-- Background color for text MU! for the splash screen -->
+    <color name="border__color">#e93737</color>
+
+    <!-- Text Color -->
+    <color name="text_color">#ffffff</color>
+
+    <!-- Edit box color -->
+    <color name="edit_box_color">#edd97d</color>
+
+    <!-- edit box color used for question2 -->
+    <color name="edit_box_android_color">#4ff74f</color>
+
+    <!-- edit box color used for question6 -->
+    <color name="edit_box_shawshank_color">#457496</color>
+
+    <!-- button color -->
+    <color name="button_color">#1B998B</color>
+
+    <!-- background color for homepage -->
+    <color name="home_background_color">#121111</color>
+
+    <!-- used for the editbox questions -->
+    <color name="questions">#C62828</color>
+
+    <!-- used for the option selection in checkbox and radio button -->
+    <color name="option">#E53935</color>
+</resources>

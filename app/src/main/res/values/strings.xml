@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FiniteQuizApp-Udacity</string>
+
+    <!-- short app name-->
+    <string name="app_short_name">FQ!</string>
+
+    <!-- Content description for Image in the activity_main-->
+    <string name="content_description">Image View for splash screen</string>
+
+    <!-- Edit text box description-->
+    <string name="edit">Write your Finite Answer!</string>
+
+    <!-- Questions for the quiz-->
+    <string name="question_1">1. Who is the fouder of Udacity?</string>
+    <string name="question_2">2. What is the initial release date of Android?</string>
+    <string name="question_3">3. Who is Steve Jobs?</string>
+    <string name="question_4">4. Which of following is a hollywood movie?</string>
+    <string name="question_5">5. Which of the planets are in the Solar System?</string>
+    <string name="question_6">6. who is the Actor of Shawshank Redemption movie?</string>
+    <string name="question_7">7. Who is he?</string>
+    <string name="question_8">8. Which of the following elements are Noble gases in the Periodic Table ?</string>
+
+</resources>
